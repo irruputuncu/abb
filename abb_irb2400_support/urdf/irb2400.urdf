@@ -28,7 +28,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/base_link.dae"/>
+        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/base_link.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.7372549 0.3490196 0.1607843 1"/>
@@ -47,7 +47,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_1.dae"/>
+        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_1.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.7372549 0.3490196 0.1607843 1"/>
@@ -67,7 +67,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_2.dae"/>
+        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_2.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.7372549 0.3490196 0.1607843 1"/>
@@ -87,7 +87,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_3.dae"/>
+        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_3.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.7372549 0.3490196 0.1607843 1"/>
@@ -107,7 +107,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_4.dae"/>
+        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_4.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.7372549 0.3490196 0.1607843 1"/>
@@ -127,7 +127,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_5.dae"/>
+        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_5.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.7372549 0.3490196 0.1607843 1"/>
@@ -147,7 +147,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_6.dae"/>
+        <mesh filename="package://abb_irb2400_support/meshes/irb2400/visual/link_6.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.1882353 0.1960784 0.2039216 1"/>
